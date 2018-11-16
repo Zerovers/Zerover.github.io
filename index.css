@@ -4,6 +4,7 @@
   .content1.visible {
    display: none;
   }
+
   .content4.visible {
     display: flex;
     margin-left: 90px;
@@ -15,6 +16,7 @@
   .button3 {
     display: none;
   }
+
   .button4 {
     display: flex;
   }
@@ -157,7 +159,10 @@ body {
   width: 700px;
   display: block;
   height: 37px;
-  
+}
+
+.blocks {
+  position: relative;
 }
 
 p {
